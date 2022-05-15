@@ -9,3 +9,5 @@ def bubbleSort(lista):
             print(element)
             if lista[element] >= lista[element+1]:
                 lista[element], lista[element+1] = lista[element+1], lista[element]
+
+#will now do this from a different branch and see if it works
